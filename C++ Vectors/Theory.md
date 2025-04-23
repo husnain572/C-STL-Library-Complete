@@ -37,4 +37,10 @@ Use vectors instead of arrays when you need:
 - Easy insertion/deletion
 - Safer and more modern C++ code
 
+### Summary
+- Vectors provide dynamic arrays with flexible size.
+- They offer safe element access and powerful methods for modification.
+- Iterators make traversal convenient and efficient.
+- Use vectors over arrays in modern C++ when dynamic sizing is needed.
+
 ---
