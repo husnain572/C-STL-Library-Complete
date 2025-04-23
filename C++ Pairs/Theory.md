@@ -22,4 +22,9 @@ In C++, a `pair` is a simple container defined in the STL to store two related d
 Use `pair` when you want to logically associate two values.
 Commonly used in maps, sets, priority queues, and to return multiple values from functions.
 
+### Summary
+- `pair` allows grouping of two values.
+- Can be nested and stored in STL containers.
+- Ideal for handling paired data in competitive programming and STL algorithms.
+
 ---
